@@ -74,3 +74,4 @@ def consultar_precos(
         "fornecedores_encontrados": fornecedores,
         "orgaos_compradores": orgaos
     }
+endpoint /consulta-precos
